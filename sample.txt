@@ -1,0 +1,11 @@
+<meta name='description' content='BCU BattleCatsUltimate のインストール、使い方を解説します。'>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CGG1C781KT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CGG1C781KT');
+</script>
