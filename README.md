@@ -1,7 +1,7 @@
 # BCU  guide
 
 japanese
-[https://forestfamily4.github.io/BattleCatsUltimate_guide_ja_by_forestfamily4/](https://forestfamily4.github.io/BattleCatsUltimate_guide_ja_by_forestfamily4/)<br>
+[https://forestfamily4.github.io/](https://forestfamily4.github.io/)<br>
 BCU(Battle Cats Ultimate)とはにゃんこ大戦争のfanmadeツールです。
 
 [BCU](https://github.com/battlecatsultimate) by lcy0x1,MandarinSmell,iREDMe,Blacksun420,Xerpyy,ITstumble
