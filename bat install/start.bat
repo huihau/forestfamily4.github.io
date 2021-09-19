@@ -1,4 +1,4 @@
-set Path=%Path%;%CD%\java-se-8u41-ri\bin
+set Path=%Path%;%CD%\jdk-17\bin
 
 @echo off
 
