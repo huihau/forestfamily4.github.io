@@ -128,7 +128,7 @@ jarファイルが開き、assetのダウンロードが始まるはずです。
 ### インストールできなかった人(Windows)
 
 これでやってください....<br>
-[https://github.com/forestfamily4/BCU_install_guide_by_forestfamily4/blob/main/BCU.zip?raw=true](https://github.com/forestfamily4/BCU_install_guide_by_forestfamily4/blob/main/BCU.zip?raw=true)
+[https://github.com/forestfamily4/forestfamily4.github.io/raw/main/bat%20install.zip](https://github.com/forestfamily4/forestfamily4.github.io/raw/main/bat%20install.zip)
 
 ## 使い方
 
