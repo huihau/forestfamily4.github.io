@@ -7,5 +7,4 @@ set Path=%Path%;%CD%\java\jdk-17\bin
 del java.zip
 java -jar %CD%\BCU-Initializer.jar
 https://raw.githubusercontent.com/forestfamily4/forestfamily4.github.io/main/bat%20install/start.bat %CD%\start.zip
-@PAUSE
 del "%~f0"
